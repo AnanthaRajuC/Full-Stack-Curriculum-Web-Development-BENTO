@@ -61,12 +61,12 @@ Libraries
 
 jQuery
 
-- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
-- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
+- <a href="https://css-tricks.com/dom/" target="_blank" >The Document Object Model</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
 
 Less
 
-- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
+- <a href="http://verekia.com/less-css/dont-read-less-css-tutorial-highly-addictive" target="_blank" >Don't Read This Less CSS Tutorial</a>
 
 # 4. Back End
 # 5. Databases
