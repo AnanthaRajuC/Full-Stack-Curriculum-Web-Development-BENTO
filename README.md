@@ -71,13 +71,38 @@ Less
 # 4. Back End
 
 Programming Languages
+
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+
 Python
+
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+
 Programming Concepts
+
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+
 Flask and Jinja
+
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+
 Heroku
+
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
 
 # 5. Databases
 
+Foundations
+SQL
+PostgreSQL
+SQLAlchemy
+Alembic
 ---
 
 ## coming soon
