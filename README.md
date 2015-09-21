@@ -42,9 +42,9 @@ Shell
 
 Git and GitHub
 
-- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
-- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
-- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
+- <a href="https://try.github.io/levels/1/challenges/1" target="_blank" >Try Git</a>
+- <a href="https://www.youtube.com/watch?v=0fKg7e37bQE" target="_blank" >GitHub</a>
+- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
 
 # 3. Front End Continued
 # 4. Back End
