@@ -56,8 +56,8 @@ JavaScript
 
 Libraries
 
-- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
-- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
+- <a href="https://html5boilerplate.com/" target="_blank" >HTML5 Boilerplate</a>
+- <a href="https://www.youtube.com/watch?v=no-Ntkc836w" target="_blank" >Bootstrap</a>
 
 jQuery
 
