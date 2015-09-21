@@ -69,6 +69,13 @@ Less
 - <a href="http://verekia.com/less-css/dont-read-less-css-tutorial-highly-addictive" target="_blank" >Don't Read This Less CSS Tutorial</a>
 
 # 4. Back End
+
+Programming Languages
+Python
+Programming Concepts
+Flask and Jinja
+Heroku
+
 # 5. Databases
 
 ---
