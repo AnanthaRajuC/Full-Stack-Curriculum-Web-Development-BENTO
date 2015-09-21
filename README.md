@@ -34,7 +34,10 @@ Workflow
 
 Important Concepts
 
-- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
+- <a href="http://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank" >Semantic HTML</a>
+
+Shell
+
 - <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
 - <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
 - <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
