@@ -20,6 +20,26 @@ Learning to Code
 - <a href="https://www.youtube.com/watch?v=9hIQjrMHTv4" target="_blank" >What is Programming?</a>
 
 # 2. Front End
+
+HTML and CSS
+
+- <a href="https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b" target="_blank" >Codecademy - HTML and CSS</a>
+- <a href="http://mdo.github.io/code-guide/" target="_blank" >Code Guide by @mdo</a>
+- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
+
+Workflow
+
+- <a href="https://generalassembly.wistia.com/medias/qzig8mp4mv" target="_blank" >Writing HTML and CSS on Your Computer</a>
+- <a href="http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2" target="_blank" >Sublime Text</a>
+
+Important Concepts
+
+- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
+- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
+- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
+- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
+- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
+
 # 3. Front End Continued
 # 4. Back End
 # 5. Databases
