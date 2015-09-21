@@ -99,10 +99,30 @@ Heroku
 # 5. Databases
 
 Foundations
+
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+
 SQL
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+
 PostgreSQL
+
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+
 SQLAlchemy
+
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+
 Alembic
+
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+
 ---
 
 ## coming soon
