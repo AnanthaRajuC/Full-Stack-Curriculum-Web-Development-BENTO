@@ -47,6 +47,27 @@ Git and GitHub
 - <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
 
 # 3. Front End Continued
+
+JavaScript
+
+- <a href="https://www.codecademy.com/courses/getting-started-v2/0/1" target="_blank" >Codecademy - JavaScript</a>
+- <a href="http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/" target="_blank" >JavaScript Debugging for Beginners</a>
+- <a href="http://it-ebooks.info/book/274/" target="_blank" >JavaScript: The Good Parts</a>
+
+Libraries
+
+- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
+- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
+
+jQuery
+
+- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
+- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
+
+Less
+
+- <a href="https://pages.github.com/" target="_blank" >GitHub Pages</a>
+
 # 4. Back End
 # 5. Databases
 
