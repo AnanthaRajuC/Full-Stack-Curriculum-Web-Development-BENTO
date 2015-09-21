@@ -38,7 +38,10 @@ Important Concepts
 
 Shell
 
-- <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
+- <a href="http://linuxcommand.org/lc3_learning_the_shell.php" target="_blank" >Shell</a>
+
+Git and GitHub
+
 - <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
 - <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
 - <a href="https://dash.generalassemb.ly/?vip=bento" target="_blank" >Dash - HTML5 and CSS3</a>
