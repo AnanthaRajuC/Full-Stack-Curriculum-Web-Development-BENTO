@@ -87,9 +87,9 @@ Programming Concepts
 
 Flask and Jinja
 
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://flask.pocoo.org/docs/0.10/quickstart/" target="_blank" >Flask Quickstart</a>
+- <a href="http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world" target="_blank" >Flask Mega Tutorial</a>
+- <a href="http://jinja.pocoo.org/docs/dev/templates/" target="_blank" >Template Designer Documentation</a>
 
 Heroku
 
