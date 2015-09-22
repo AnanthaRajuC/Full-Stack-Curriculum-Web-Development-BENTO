@@ -108,8 +108,8 @@ SQL
 
 PostgreSQL
 
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://postgresapp.com/" target="_blank" >Postgres.app</a>
+- <a href="http://www.chesnok.com/daily/2013/11/06/top-10-psql-commands-i-use/" target="_blank" >Top 10 Psql Commands I Use</a>
 
 SQLAlchemy
 
