@@ -113,10 +113,10 @@ PostgreSQL
 
 SQLAlchemy
 
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://killtheyak.com/use-postgresql-with-django-flask/" target="_blank" >Use PostgreSQL with Flask</a>
+- <a href="https://pythonhosted.org/Flask-SQLAlchemy/quickstart.html" target="_blank" >Flask-SQLAlchemy Quickstart</a>
+- <a href="http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/" target="_blank" >Python SQLAlchemy Tutorial</a>
+- <a href="http://docs.sqlalchemy.org/en/rel_0_9/orm/tutorial.html" target="_blank" >Object Relational Tutorial</a>
 
 Alembic
 
