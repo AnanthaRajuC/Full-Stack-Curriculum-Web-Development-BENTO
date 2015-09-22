@@ -120,8 +120,8 @@ SQLAlchemy
 
 Alembic
 
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://alembic.readthedocs.org/en/latest/tutorial.html" target="_blank" >Basic Alembic Migrations with Flask</a>
+- <a href="http://michaelmartinez.in/basic-alembic-migrations-with-flask.html" target="_blank" >Alembic Tutorial</a>
 
 ---
 
