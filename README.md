@@ -103,8 +103,8 @@ Foundations
 - <a href="https://www.youtube.com/playlist?list=PLnxBrInqFEs7DqOUljmVlgZ_xRRSsyesu" target="_blank" >Foundations of Programming: Databases</a>
 
 SQL
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://www.w3schools.com/sql/sql_intro.asp" target="_blank" >Introduction to SQL</a>
+- <a href="http://sqlzoo.net/wiki/Main_Page" target="_blank" >SQLZoo</a>
 
 PostgreSQL
 
