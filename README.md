@@ -93,8 +93,8 @@ Flask and Jinja
 
 Heroku
 
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="https://devcenter.heroku.com/articles/getting-started-with-python-o" target="_blank" >Getting Started with Python on Heroku</a>
+- <a href="https://www.youtube.com/watch?v=L9uD74nHvFY" target="_blank" >Deploying to Heroku</a>
 
 # 5. Databases
 
