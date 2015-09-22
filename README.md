@@ -82,8 +82,8 @@ Python
 
 Programming Concepts
 
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="https://www.youtube.com/watch?v=SS-9y0H3Si8" target="_blank" >What is Object-Oriented Language?</a>
+- <a href="https://www.youtube.com/watch?v=Mv9NEXX1VHc" target="_blank" >What on Earth is Recursion?</a>
 
 Flask and Jinja
 
