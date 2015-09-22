@@ -77,8 +77,8 @@ Programming Languages
 
 Python
 
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="https://www.codecademy.com/courses/introduction-to-python-6WeG3/0/1?curriculum_id=4f89dab3d788890003000096" target="_blank" >Codecademy - Python</a>
+- <a href="http://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/" target="_blank" >Pip and Virtualenv</a>
 
 Programming Concepts
 
