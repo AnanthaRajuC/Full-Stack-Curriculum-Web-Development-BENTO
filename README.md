@@ -1,5 +1,5 @@
 
-# Full Stack Curriculum - Web Development - BENTO
+# Full Stack Curriculum - Web Development   BENTO
 Full Stack Web Development Curriculum, curated in https://www.bento.io
 
 # 1. Web Fundamentals
@@ -72,8 +72,8 @@ Less
 
 Programming Languages
 
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="http://learnxinyminutes.com/docs/javascript/#" target="_blank" >Learn X in Y Minutes - JavaScript</a>
+- <a href="http://learnxinyminutes.com/docs/python/" target="_blank" >Learn X in Y Minutes - Python</a>
 
 Python
 
