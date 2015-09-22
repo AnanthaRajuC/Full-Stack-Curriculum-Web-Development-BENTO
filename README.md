@@ -100,7 +100,7 @@ Heroku
 
 Foundations
 
-- <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
+- <a href="https://www.youtube.com/playlist?list=PLnxBrInqFEs7DqOUljmVlgZ_xRRSsyesu" target="_blank" >Foundations of Programming: Databases</a>
 
 SQL
 - <a href="http://try.jquery.com/" target="_blank" >Code School - jQuery</a>
